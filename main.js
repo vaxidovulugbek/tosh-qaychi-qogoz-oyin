@@ -118,12 +118,6 @@ eltosh.addEventListener("click", () =>{
 })
 
 
-// console.log(elScoreMe.textContent);
-if (elScoreMe.textContent == 2) {
-  // elimg1.parentElement.style.display = "none"
-}
-// agar komp qiymati 1 bolsa durrang 2 bolsa yutqazdi 3 bolsa yutdi
-
 
 
 
